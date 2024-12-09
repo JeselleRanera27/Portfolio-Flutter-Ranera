@@ -1,0 +1,4 @@
+Chapter 1: Installation and Set-Up of VS Code
+When I started working on the Budget Buddy application, the first thing I needed to do was set up my development environment. I chose Visual Studio Code (VS Code) as my main tool because it’s user-friendly, efficient, and works perfectly with Flutter. I began by downloading and installing VS Code, then added the necessary extensions for Flutter and Dart to ensure everything was ready to go.
+
+I took my time with the setup to avoid any issues later on. Getting the environment right was crucial because I wanted to focus on building Budget Buddy without worrying about technical roadblocks. This step felt like setting the stage for the rest of the project—preparing everything so I could work smoothly and efficiently. Once everything was set, I felt ready and excited to start bringing Budget Buddy to life.
