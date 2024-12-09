@@ -1,0 +1,6 @@
+Chapter 2: Testing VS Code with a Simple Hello World App
+After setting up my development environment for Budget Buddy, I wanted to make sure everything was working as expected before diving into the actual app development. To do this, I tested Visual Studio Code (VS Code) by creating a simple "Hello World" app using Flutter.
+
+This step wasn’t just about testing the tools, it was about building confidence. Running the app and seeing "Hello World" displayed on the screen felt like a small but meaningful achievement. It confirmed that all the extensions were properly installed, the code was compiling without errors, and the setup was ready for real development work.
+
+This experience gave me reassurance that I could move forward with Budget Buddy without any major issues holding me back. It may have been a basic test, but it laid the groundwork for the much bigger challenges ahead.
